@@ -14,14 +14,14 @@ function Footer() {
                     © {new Date().getFullYear()} Scheva Pratama<a href="/" className="hover:underline"></a>
                 </div>
                 <div className="flex flex-row items-center justify-center mb-1 space-x-2">
-                    <a href="https://github.com/hqasmei" rel="noreferrer" target="_blank">
+                    <a href="https://github.com/SchevaPratama" rel="noreferrer" target="_blank">
                         <AiOutlineGithub
                             className="transition-transform cursor-pointer hover:-translate-y-1 text-neutral-500 dark:text-neutral-100"
                             size={30}
                         />
                     </a>
                     <a
-                        href="https://twitter.com/hqasmei"
+                        href="https://www.instagram.com/zordievsz/"
                         rel="noreferrer"
                         target="_blank"
                     >
@@ -32,7 +32,7 @@ function Footer() {
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/hosnaqasmei/"
+                        href="https://www.linkedin.com/in/scheva-pratama-889831213/"
                         rel="noreferrer"
                         target="_blank"
                     >
