@@ -15,14 +15,14 @@ function HeroSection() {
                     <h1 className="font-bold text-4xl mt-6 md:text-4xl md:mt-0">Hi, I&#39;m Scheva Pratama</h1>
                     <p className="text-lg mt-4 mb-6">
                         I&#39;m a {" "}
-                        <span className="font-semibold text-cyan-500">
+                        <span className="font-semibold text-cyan-600">
                             Software Developer {" "}
                         </span>
                         based in Banyuwangi, Indonesia. Passionate in creating software that serves a purpose and benefits others.
                     </p>
                     <Link
                         to="projects"
-                        className="text-neutral-100 font-semibold px-6 py-3 bg-cyan-400 rounded shadow hover:bg-cyan-500"
+                        className="text-neutral-100 font-semibold px-6 py-3 bg-cyan-600 rounded shadow hover:bg-cyan-500"
                         activeClass="active"
                         spy={true}
                         smooth={true}
