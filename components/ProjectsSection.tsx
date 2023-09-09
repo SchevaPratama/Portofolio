@@ -32,7 +32,7 @@ const projects = [
     {
         name: "Refill My Bottle",
         description: "Refill My Bottle is a user-friendly application designed to help individuals easily locate refill stations for water bottles on a map. This innovative app aims to promote sustainable practices by encouraging users to refill their water bottles instead of purchasing single-use plastic bottles.",
-        image: "/refillmybottle.png",
+        image: "/refillmybottle.jpg",
         link: "https://play.google.com/store/apps/details?id=com.pixelon.refillmybottle",
         link2: "https://apps.apple.com/us/app/refillmybottle/id6447903023",
         type: "mobile"
